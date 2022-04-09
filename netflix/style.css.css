@@ -1,0 +1,314 @@
+
+.container{
+    background-color: rgb(84, 79, 79);
+    width: 100%;
+    font-family: 'Dosis', sans-serif;
+   
+    
+    
+}
+.font{
+    width: 200px;
+}
+a{
+    color: white;
+    text-decoration: none
+}
+h1{
+    font-weight:bolder ;
+    color: white;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    
+    max-width: 100%;
+    height: auto;
+    border: 0;
+}
+.main{
+    background-image: url(netflix.jpg);
+    width: 100%;
+    height: 700px;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+
+    
+}
+.link{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.mail{
+    text-transform: lowercase;
+    border-radius: 5px;
+}
+
+.box1{
+     width: 100%;
+     height: 100px;
+     padding-left: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+     
+     
+   }
+
+
+.box2{
+    
+    display: flex;
+    padding: 40px;
+    justify-content: end;
+    justify-content: space-between;
+    
+    
+    
+    
+}
+.link4{
+    background-color: red;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+.border1{
+    border-radius: 5px;
+    height: 20px;
+}
+.head2{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.list{
+    text-transform: none;
+}
+.trans{
+    padding-right: 20px;
+    background: transparent;
+    color: white;
+    height: 30px;
+    border-width: 3px;
+    
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.button1{
+    width: 70px;
+    margin-left: 50px;
+    height: 30px;
+    border-radius: 5px;
+    background: rgb(203, 11, 11);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.head{
+    color: white;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button2{
+   background-color: red;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.secondpage{
+  
+    background-color: black;
+    margin-top: 10px;
+}
+
+.content1{
+width: 100%;
+height: 700px;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-around;
+}
+.thirdpage{
+    margin-top: 10px;
+    width: 100%;
+    height: 700px;
+    background-color:black;
+    color: white;
+}
+.content2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+.words2{
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.forthpage{
+    display: flex;
+    
+   
+   
+}
+.content3{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 700px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.fifthpage{
+    background-color:black;
+    width: 100%;
+    height: 700px;
+    color: white;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.content4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+}
+.pic4{
+    width: 400px;
+}
+.words5{
+    display: flex;
+    flex-direction: column;
+    
+}
+.sixthpage{
+    width: 100%;
+    height: 700px;
+    background: black;
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+   
+}
+.link2{
+    background-color: red;
+    width: 100px;
+    border-radius: 5px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.content5{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+.last{
+    color: white;
+    width: 400px;
+    height: 40px;
+    padding-left:30px;
+    background-color:#303030;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.mail{
+    
+    display: flex;
+    justify-content: center;
+    text-transform: lowercase;
+}
+.final{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.link{
+  
+  margin-top: 20px;
+  background-color: red;
+  width: 120px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+}
+.foot{
+    width: 93%;
+    height: 500px;
+    background-color:black ;
+    margin-top: 5px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.content6{
+    color: white;
+
+}
+.select1{
+    line-height: 1.7;
+    font-size: 16px;
+    background: none;
+}
+.footdata{
+    display: flex;
+    justify-content: space-around;
+    
+}
+ul{
+    list-style: none;
+
+}
+.ul{
+   display: flex;
+   flex-direction: column;
+}
+
+
+
+
